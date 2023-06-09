@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # record-project
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# record-app
+a record app in windows   is created by Electron
+>>>>>>> a257b629e16832f88cc08a8452f8605cf29ecb13
